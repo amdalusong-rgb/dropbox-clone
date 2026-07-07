@@ -1,5 +1,5 @@
 {
-  "buildCommand": "cd dropbox-clone && npm run build",
-  "outputDirectory": "dropbox-clone/dist",
+  "buildCommand": "cd dropbox-clone/dropbox-clone && npm run build",
+  "outputDirectory": "dropbox-clone/dropbox-clone/dist",
   "framework": "vite"
 }
