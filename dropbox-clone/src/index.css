@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  /* Your uploaded Pink Palette mappings */
+  --color-pink-100: #FCE7F3; /* Lightest pink accent */
+  --color-pink-200: #FBCFE8;
+  --color-pink-300: #F472B6;
+  --color-pink-400: #EC4899;
+  --color-pink-500: #D946EF; /* Vibrant pink brand accent */
+  
+  /* Interface themes modeled after your dark & light Figma viewports */
+  --color-dark-bg: #1C1A1A;
+  --color-dark-card: #2B2626;
+  --color-light-bg: #FFFFFF;
+  --color-light-card: #F9F9F9;
+}
